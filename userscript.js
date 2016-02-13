@@ -8,6 +8,7 @@
 // ==/UserScript==
 // ==OpenUserJS==
 // @author baconface
+// @collaborator baconface
 // ==/OpenUserJS==
 $('.cartOccasion').html('The estimated wait time is ' + window.store_promised_time + ' minutes.<br />');
 if (window.store_promised_time <= 30) {
