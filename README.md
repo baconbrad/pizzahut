@@ -1,2 +1,2 @@
-# pizzahut
-Can I have Pizza Hut
+# Can I have Pizza Hut
+I created this user script because I have become fustrated with ordering Pizza Hut just to find out I have a 2 hour wait. This script will list the expected wait time prior to placing your order. Use it with a user script plugin such as [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
