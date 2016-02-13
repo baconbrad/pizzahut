@@ -6,6 +6,9 @@
 // @version     1
 // @grant       none
 // ==/UserScript==
+// ==OpenUserJS==
+// @author baconface
+// ==/OpenUserJS==
 $('.cartOccasion').html('The estimated wait time is ' + window.store_promised_time + ' minutes.<br />');
 if (window.store_promised_time <= 30) {
  $('.cartOccasion').append('It is totally a good time to order!'); 
